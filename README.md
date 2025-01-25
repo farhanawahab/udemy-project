@@ -11,7 +11,8 @@ This project is a simple Udemy clone website built using HTML, CSS and Advanced 
 
 **Technologies Used:**
 - HTML
-- CSS (Flexbox, Animations, Positioning, Media Queries)
+- CSS
+- Advanced CSS
   
 Let me know if you have any questions or suggestions!
 
